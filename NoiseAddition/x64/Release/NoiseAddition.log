@@ -1,0 +1,10 @@
+﻿  addNoise.cpp
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\NoiseAddition\addNoise.cpp(14,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\NoiseAddition\addNoise.cpp(18,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\NoiseAddition\addNoise.cpp(26,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 708 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NoiseAddition.vcxproj -> E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\NoiseAddition\x64\Release\NoiseAddition.exe
